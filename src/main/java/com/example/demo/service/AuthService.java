@@ -9,7 +9,7 @@ import com.example.demo.model.VerificationToken;
 import com.example.demo.repository.UserRepository;
 import com.example.demo.repository.VerificationTokenRepository;
 import com.example.demo.securiry.JwtProvider;
-import exceptions.SpringRedditException;
+import com.example.demo.exceptions.SpringRedditException;
 import lombok.AllArgsConstructor;
 import org.springframework.security.authentication.AuthenticationManager;
 import org.springframework.security.authentication.UsernamePasswordAuthenticationToken;

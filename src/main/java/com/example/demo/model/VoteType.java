@@ -1,6 +1,6 @@
 package com.example.demo.model;
 
-//import com.programming.techie.springredditclone.exceptions.SpringRedditException;
+//import com.programming.techie.springredditclone.com.example.demo.exceptions.SpringRedditException;
 
 import java.util.Arrays;
 
